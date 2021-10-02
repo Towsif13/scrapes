@@ -1,6 +1,8 @@
 # pip install beautifulsoup4
 # pip install lxml
 # pip install requests
+# pip install openpyxl
+# pip install xlsxwriter
 
 from bs4 import BeautifulSoup
 import requests
